@@ -1,3 +1,5 @@
+![IT-Akademy Codex Bootstrap cover](assets/social/Gemini_Generated_Image_8nq5u08nq5u08nq5.jpg)
+
 # IT-Akademy AI Delivery Template
 
 Template IT-Akademy pour un workflow de developpement AI centre execution.
