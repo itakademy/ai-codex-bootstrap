@@ -1,0 +1,21 @@
+{
+  "name": "orz-ai-tpl-01",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "bash scripts/check-env.sh",
+    "lint:md": "markdownlint-cli2",
+    "sst:dev": "sst dev",
+    "sst:deploy": "sst deploy",
+    "sst:remove": "sst remove"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "markdownlint-cli2": "^0.18.1",
+    "sst": "^3.0.0",
+    "typescript": "^5.0.0"
+  }
+}

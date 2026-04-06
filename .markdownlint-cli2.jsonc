@@ -1,0 +1,21 @@
+{
+  "config": {
+    "default": true,
+    "MD009": false,
+    "MD013": false,
+    "MD022": false,
+    "MD031": false,
+    "MD032": false,
+    "MD033": false,
+    "MD041": false
+  },
+  "globs": [
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "README.md",
+    "docs/adr/**/*.md",
+    "docs/**/*.md",
+    "recipes/**/*.md",
+    "specs/**/*.md"
+  ]
+}

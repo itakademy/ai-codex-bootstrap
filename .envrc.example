@@ -1,0 +1,7 @@
+if [ -f .env ]; then
+  set -a
+  source .env
+  set +a
+fi
+
+export AWS_REGION="${AWS_REGION:-eu-west-3}"
